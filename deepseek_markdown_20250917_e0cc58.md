@@ -1,0 +1,56 @@
+# CRUD Application
+
+A complete CRUD (Create, Read, Update, Delete) web application built with HTML, CSS, and JavaScript.
+
+## Features
+
+- Create new user records
+- Read and view all user data
+- Update existing user information
+- Delete user records
+- Data persistence using browser localStorage
+- Responsive design that works on desktop and mobile
+
+## How to Use
+
+1. Open `index.html` in a web browser
+2. Fill out the form to add a new user
+3. View all users in the table below the form
+4. Click "Edit" to modify a user's information
+5. Click "Delete" to remove a user
+
+## File Structure
+
+- `index.html` - Main HTML file
+- `style.css` - CSS styles for the application
+- `script.js` - JavaScript functionality
+- `README.md` - This documentation file
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Bootstrap 5
+- Font Awesome icons
+- Browser localStorage API
+
+## Browser Compatibility
+
+This application works in all modern browsers that support:
+- ES6 JavaScript features
+- localStorage API
+- CSS Flexbox and Grid
+
+## Deployment
+
+To deploy this application:
+1. Upload all files to a web server
+2. Or use GitHub Pages by pushing to a repository and enabling Pages in settings
+
+## Future Enhancements
+
+- Add backend integration with a real database
+- Implement user authentication
+- Add search and filtering capabilities
+- Add data export functionality
